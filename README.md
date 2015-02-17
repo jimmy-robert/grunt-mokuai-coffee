@@ -2,6 +2,10 @@
 
 > A Grunt task to create mokuai closures from CoffeeScript.
 
+[Mokuai](https://github.com/JimRobs/mokuai) lets you write pure JavaScript modules, without any concern about
+concatenation order and require calls. [Mokuai-coffee](https://github.com/JimRobs/mokuai-coffee) lets you do the same
+thing with CoffeeScript.
+
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
 
